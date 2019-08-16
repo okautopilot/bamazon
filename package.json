@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "needed packages to run bamazon",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okautopilot/bamazon.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "authors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okautopilot/bamazon/issues"
+  },
+  "homepage": "https://github.com/okautopilot/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.5.1"
+  }
+}
